@@ -1,6 +1,15 @@
-#HSLIDE
-<span style="color:gray">A test for SLIDESHOW using GitPitch</span>
+# Flux 
+
+An application architecture for React
 
 #HSLIDE
-	- item 1
-	- item 2
+
+### Flux Design
+
+- Dispatcher: Manages Data Flow
+- Stores: Handle State & Logic
+- Views: Render Data via React
+
+#HSLIDE
+
+![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
