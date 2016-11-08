@@ -1,15 +1,15 @@
-# Flux 
+# Nastavnjc 
 
-An application architecture for React
-
-#HSLIDE
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+An example of slideshow with GitPitch
 
 #HSLIDE
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+### GitPitch Design
+
+- Item 1: some words for I1
+- Item 2: some words for I2
+- Item 2: some words for I3
+
+#HSLIDE
+
+![GitPitch Explained](http://brunalab.org/wp-content/uploads/2014/08/blog-github.png)
